@@ -15,7 +15,6 @@ pyOpenSSL==20.0.1
 PySocks==1.7.1
 PyYAML==5.4.1
 rope==0.18.0
-Rtree==0.9.4
 scikit-learn==0.24.1
 sip==4.19.13
 spyder==4.2.3
