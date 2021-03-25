@@ -98,7 +98,7 @@ QtPy==1.9.0
 requests==2.25.1
 rope==0.18.0
 scikit-learn==0.24.1
-scipy==1.6.1
+scipy==1.5.4
 setuptools==52.0.0.post20210125
 sip==4.19.13
 six==1.15.0
