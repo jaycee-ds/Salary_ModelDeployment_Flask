@@ -120,7 +120,7 @@ threadpoolctl==2.1.0
 three-merge==0.1.1
 toml==0.10.2
 tornado==6.1
-traitlets==5.0.5
+traitlets==4.3.3
 ujson==4.0.2
 urllib3==1.26.4
 watchdog==1.0.2
