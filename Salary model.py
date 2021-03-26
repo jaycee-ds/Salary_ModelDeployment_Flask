@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import statsmodels.api as sm
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 import pickle
+import numpy as np
 
 data = pd.read_csv('Salary_Data.csv')
 data
